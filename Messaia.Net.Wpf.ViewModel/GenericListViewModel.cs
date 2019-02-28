@@ -6,12 +6,11 @@
 ///                   Licensed under the Apache License, Version 2.0. 
 ///                   See License.txt in the project root for license information.
 ///-----------------------------------------------------------------
-namespace SchoolManagementSystem.ViewModels
+namespace Messaia.Net.Wpf.ViewModel
 {
     using Messaia.Net.Wpf.Common;
     using Messaia.Net.Wpf.Model;
     using Messaia.Net.Wpf.Pagination;
-    using Messaia.Net.Wpf.ViewModel;
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;
