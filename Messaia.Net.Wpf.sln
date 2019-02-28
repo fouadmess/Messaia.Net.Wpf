@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaia.Net.Wpf.Common", "Messaia.Net.Wpf.Common\Messaia.Net.Wpf.Common.csproj", "{94AA82BF-0494-4E73-984C-BDFB71256521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaia.Net.Wpf.Controls", "Messaia.Net.Wpf.Controls\Messaia.Net.Wpf.Controls.csproj", "{18B10412-C140-4D83-A8D5-816EAC7E7F2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaia.Net.Wpf.Model", "Messaia.Net.Wpf.Model\Messaia.Net.Wpf.Model.csproj", "{62E5BCEB-22EA-439C-BDA1-1573FE52B739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaia.Net.Wpf.Pagination", "Messaia.Net.Wpf.Pagination\Messaia.Net.Wpf.Pagination.csproj", "{14802360-351A-41D8-8ABF-E1D07050980B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaia.Net.Wpf.ViewModel", "Messaia.Net.Wpf.ViewModel\Messaia.Net.Wpf.ViewModel.csproj", "{6FA08280-A09D-4C7C-B43A-4D825DBF41C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{448E16EB-8C9A-494D-95F9-4E4E8C9ADC9B}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94AA82BF-0494-4E73-984C-BDFB71256521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AA82BF-0494-4E73-984C-BDFB71256521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AA82BF-0494-4E73-984C-BDFB71256521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AA82BF-0494-4E73-984C-BDFB71256521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B10412-C140-4D83-A8D5-816EAC7E7F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B10412-C140-4D83-A8D5-816EAC7E7F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B10412-C140-4D83-A8D5-816EAC7E7F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B10412-C140-4D83-A8D5-816EAC7E7F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E5BCEB-22EA-439C-BDA1-1573FE52B739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E5BCEB-22EA-439C-BDA1-1573FE52B739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E5BCEB-22EA-439C-BDA1-1573FE52B739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E5BCEB-22EA-439C-BDA1-1573FE52B739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14802360-351A-41D8-8ABF-E1D07050980B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14802360-351A-41D8-8ABF-E1D07050980B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14802360-351A-41D8-8ABF-E1D07050980B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14802360-351A-41D8-8ABF-E1D07050980B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA08280-A09D-4C7C-B43A-4D825DBF41C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA08280-A09D-4C7C-B43A-4D825DBF41C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA08280-A09D-4C7C-B43A-4D825DBF41C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA08280-A09D-4C7C-B43A-4D825DBF41C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7EFCB9B-2EB4-46C7-9D33-418833763F94}
+	EndGlobalSection
+EndGlobal
