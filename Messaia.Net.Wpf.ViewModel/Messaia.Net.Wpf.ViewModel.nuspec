@@ -12,4 +12,8 @@
     <description>$description$</description>
     <copyright>Copyright 2019</copyright>
   </metadata>
+  <files>
+    <file src="bin\$configuration$\de\*.dll" target="lib\net46\de" />
+    <file src="bin\$configuration$\fr\*.dll" target="lib\net46\fr" />
+  </files>
 </package>
