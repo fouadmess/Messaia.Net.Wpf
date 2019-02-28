@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <Copyright>2017, MESSAIA.NET, all Rights Reserved. Licensed under the Apache License, Version 2.0. See the LICENSE file in the project root for more information.</Copyright>
+    <Copyright>2019, MESSAIA.NET, all Rights Reserved. Licensed under the Apache License, Version 2.0. See the LICENSE file in the project root for more information.</Copyright>
     <Company>MESSAIA.NET</Company>
     <Authors>Fouad Messaia</Authors>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
