@@ -3,10 +3,10 @@
     <Copyright>2019, MESSAIA.NET, all Rights Reserved. Licensed under the Apache License, Version 2.0. See the LICENSE file in the project root for more information.</Copyright>
     <Company>MESSAIA.NET</Company>
     <Authors>Fouad Messaia</Authors>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
-    <Version>1.0.0</Version>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <FileVersion>1.0.0.0</FileVersion>
+	<TargetFrameworks>NET46;NET7_0</TargetFrameworks>
+    <Version>2.0.0</Version>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <IncludeSymbols>True</IncludeSymbols>
   </PropertyGroup>
